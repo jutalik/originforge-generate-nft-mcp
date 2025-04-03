@@ -1,3 +1,5 @@
+[![smithery badge](https://smithery.ai/badge/@jutalik/originforge-generate-nft-mcp)](https://smithery.ai/server/@jutalik/originforge-generate-nft-mcp)
+
 # NFT 데이터 뷰어
 
 이 프로젝트는 [Origin Forge API](https://api.origin-forge.com)에서 NFT 데이터를 가져와 표시하고 저장하는 도구입니다.
