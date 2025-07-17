@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jutalik-originforge-generate-nft-mcp-badge.png)](https://mseep.ai/app/jutalik-originforge-generate-nft-mcp)
+
 [![smithery badge](https://smithery.ai/badge/@jutalik/originforge-generate-nft-mcp)](https://smithery.ai/server/@jutalik/originforge-generate-nft-mcp)
 
 # NFT 데이터 뷰어
